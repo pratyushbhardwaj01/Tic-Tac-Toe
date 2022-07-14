@@ -1,1 +1,1 @@
-Created a tic-tac-toe game using react and this is my first project.
+Created a Tic-Tac-Toe game using react Hooks that are UseState and useEffect hooks.

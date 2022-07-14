@@ -21,7 +21,7 @@ const Board = ({ reset, setReset, winner, setWinner }) => {
     setTurn(0);
     setWinner(" ");
     setReset(false);
-  }, [reset, setReset, setWinner]);
+  }, [reset,winner]);
 
   useEffect(() => {
     const checkRow = () => {
